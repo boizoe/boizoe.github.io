@@ -4,5 +4,5 @@ As you can see, this page occupies url [https://zs14.github.io](https://zs14.git
 
 General purpose of this blog is:
 
-- give me more practive in English writing;
-- it's enough;
+* give me more practive in English writing;
+* it's enough;
