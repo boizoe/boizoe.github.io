@@ -1,2 +1,2 @@
-# zs14.github.io
+# boizoe.github.io
 My static site
